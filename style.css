@@ -1,0 +1,32 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+} 
+
+img {
+    border-radius: 100%;
+    border: 2px solid black;
+}
+
+
+.dadosPerfil {
+    text-align: center;
+
+}
+
+body {
+    background: linear-gradient(#ffffff , #707d8d);
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top:100px;
+}
+
+a {
+    color: purple;
+    text-decoration: none;
+}
